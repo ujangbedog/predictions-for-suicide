@@ -45,5 +45,5 @@ def predict():
     
 
 if __name__=="__main__":
-    #app.config['DEBUG'] = True
+    #app.config['DEBUG'] = true
     app.run()
