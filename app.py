@@ -39,9 +39,9 @@ def predict():
         percent=model.predict_proba([[gender, sexuallity, friends, age, income, bodyweight, virgin, social_fear, employment, depressed]])
         output=round(prediction[0],2)
         if output ==1:
-            return render_template('result-yes-suicide.html', percent=percent[0][1]*100, test=employment)
+            return render_template('result-yes-suicide.html', percent=percent[0][1]*100)
         else:
-            return render_template('result-not-suicide.html', percent=percent[0][1]*100, test=employment)
+            return render_template('result-not-suicide.html', percent=percent[0][1]*100)
     
 
 if __name__=="__main__":
