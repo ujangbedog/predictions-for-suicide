@@ -10,4 +10,4 @@ Aplikasi ini dibuat untuk memenuhi tugas UAS Data Science.
 http://165.22.54.116/
 
 ## License
-Prediction for Suicide has [MIT] License.(https://github.com/ujangbedog/predictions-for-suicide/blob/main/LICENSE.md)
+Prediction for Suicide has [MIT] License. (https://github.com/ujangbedog/predictions-for-suicide/blob/main/LICENSE.md)
