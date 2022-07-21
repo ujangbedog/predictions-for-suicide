@@ -6,8 +6,5 @@ Aplikasi ini dibuat untuk memenuhi tugas UAS Data Science.
 * Rinandi Herdiana
 * Zildan Ahmad Mahbubi
 
-## Demo
-http://165.22.54.116/
-
 ## License
 Prediction for Suicide has [MIT](https://github.com/ujangbedog/predictions-for-suicide/blob/main/LICENSE.md) License.
